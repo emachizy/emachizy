@@ -1,5 +1,4 @@
 
-[![MasterHead](https://media.tenor.com/Z6Sx7xwWTFAAAAAC/banner.gif)
 <h1 align="center">Hi 👋, I'm Nwankwo Emmanuel</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://storage.googleapis.com/replit/images/1657118198441_55448d17bb6f6281557833e56bed2289.gif">
