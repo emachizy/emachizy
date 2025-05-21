@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emachizy" alt="emachizy" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, Typescript**
+- 🌱 I’m currently learning **NextJS, Typescript**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **MERN STack**
 
 - 📫 How to reach me **emachi2011@gmail.com**
 
